@@ -33,3 +33,7 @@ Bu sistem, fiziksel mağazalarda **müşteri yoğunluğunu izlemek**, **ziyaret�
 - Personelsiz “hoş geldiniz” karşılama  
 - Günlük müşteri sayısının raporlanması  
 - Düşük maliyetli otomasyon sistemi
+
+## 🎥 Tanıtım Videosu
+
+https://youtu.be/orkvLFNozl4?si=Zv5cCStBUUVFEe3t
